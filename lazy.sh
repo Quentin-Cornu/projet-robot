@@ -1,7 +1,7 @@
 #!/bin/sh
 # chmod +x lazy.sh then exec with ./lazy.sh not in the repo directory
 
-Branches='android tns stm32 LIDAR';
+Branches='android tns stm32 LIDAR raspi';
 
 if [[ $PWD = 'projet-robot' ]]; then
     cd ..
