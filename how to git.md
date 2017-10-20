@@ -17,6 +17,7 @@ $ git checkout -b [name_of_the_branch]
   * android (APK)
   * tns (Synthese/Reconnaissance Vocale)
   * LIDAR (Detection d'obstacle, Cartographie 360°)
+  * raspi (Control/Video)
   * how-to-git (This Wiki)
   * master (Should be clean. i.e Stable and Working)
 
