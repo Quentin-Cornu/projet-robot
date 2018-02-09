@@ -9,7 +9,7 @@ $ git clone https://github.com/Quentin-Cornu/projet-robot.git
 ### Then, Select a branch (default: master)
 
 ```
-$ git checkout -b [name_of_the_branch]
+$ git checkout [name_of_the_branch]
 ```
 
 * in this repository the branches are:
